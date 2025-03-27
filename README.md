@@ -1,55 +1,71 @@
-# Hi there, I'm Ahmad! 👋
+# Hi there, I'm Muhammad Ahmad! 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=435&lines=Cloud+Security+%7C+DevSecOps+%7C+Software+Dev;Graphic+Designer+%7C+Tech+Enthusiast+%7C+Founder)
-
----
-
-## 🚀 About Me
-
-🎓 **Computer Science Enthusiast** | ☁️ **Cloud Security Geek** | 🏆 **Tech Leader**
-
-I'm passionate about **DevSecOps, Cloud Infrastructure, and Cybersecurity**, continuously learning and growing in the tech space.
-
-- 🏢 **Technical Lead** at MLSA Multan  
-- 🏦 **IT Intern** at Faysal Bank  
-- 🎨 **Graphic Designer** (340K+ filter uses) & Digital Marketer  
-- 💼 **Founder** of **Aqua Realtors & Builders** and **abeyahmadd**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=700&lines=Cloud+Security+Enthusiast+%7C+DevSecOps+Learner;Technical+Lead+at+MLSA+%7C+Volunteer+at+GDSC;Interned+at+Faysal+Bank+%7C+Graphic+Designer)  
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🚀 About Me  
+
+🎓 **Computer Science Student** | ☁️ **Cloud Security Enthusiast** | 💻 **DevSecOps Learner**  
+
+I'm **Muhammad Ahmad**, a **Computer Science enthusiast** passionate about **Cloud Infrastructure, Cybersecurity, and DevSecOps**. My expertise spans from **IT security and networking** to **creative digital content production**.  
+
+🔹 **Technical Lead** at **Microsoft Learn Student Ambassadors (MLSA) - Multan**  
+🔹 **Volunteer** at **Google Developer Student Club (GDSC - BZU)**  
+🔹 **IT Intern** at **Faysal Bank**, where I worked on networking, virtualization, and system security  
+🔹 **Creative Producer** at **International Cricket Masters**, designing engaging digital content  
+🔹 **Graphic Designer**, with 340K+ filter uses on Facebook & Instagram  
+
+---
+
+## 🛠 Tech Stack & Skills  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet,linux,docker,wordpress,bootstrap,html,css" />
-</p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,docker,kubernetes,python,cpp,cs,dotnet,sql,html,css,js,bash,vscode,git,github" />
+</p>  
+
+✔️ **Cloud Security & Networking** – AWS, GCP, Azure, Virtualization, Firewalls  
+✔️ **DevSecOps & Automation** – Docker, Kubernetes, Linux, Bash, CI/CD  
+✔️ **Programming & Development** – Python, C++, C#, .NET, SQL, Web Dev  
+✔️ **IT Infrastructure** – System Admin, Networking, Cybersecurity  
+✔️ **Creative Design** – Adobe Photoshop, Illustrator, Video Editing  
 
 ---
 
-## 🔥 Projects & Contributions
+## 🔥 Featured Projects  
 
-- 📸 **[Wedding Photography Website](https://github.com/yourusername/wedding-photography)** – A sleek portfolio site using HTML, CSS, and Bootstrap.
-- 🌐 **[Custom VLAN Config Guide](https://github.com/yourusername/vlan-guide)** – Structured VLAN setup guide for Cisco switches.
-- 🏠 **IoT-Based Security System** – Smart home security implementation using Raspberry Pi.
+- **🔒 [Cloud Security Risk Management](https://github.com/yourusername/project-repo)** – Risk assessment framework for cloud security  
+- **🌍 [Network Automation with Python](https://github.com/yourusername/another-repo)** – Automating VLAN & switch configurations  
+- **🎨 [Creative Design Portfolio](https://github.com/yourusername/another-repo)** – A collection of branding & design projects  
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Certifications  
+
+📜 **Strategies for Cloud Security Risk Management** – Google Cloud  
+📜 **Introduction to Cybersecurity** – Cisco Networking Academy  
+📜 **Docker Essentials** – IBM Skills Network  
+📜 **Microsoft Azure Fundamentals** – Microsoft  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p>  
 
 ---
 
-## 📫 Connect With Me
+## 📢 Let's Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmedwsiim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/ahmedwsiim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
+</p>  
 
 ---
 
-💡 *"Security isn't a product, it's a process."* 🚀
+💡 *"Security is not a product, but a process."* – Bruce Schneier  
