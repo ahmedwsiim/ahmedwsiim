@@ -1,27 +1,44 @@
-# 💫 About Me:
-I'm currently working on C++ & Python<br>I'm looking to collaborate on C++<br>I'm looking for help with DSA<br>I'm currently looking into Machine Learning<br>I'm enrolled as a Computer Science Student
+# Hi there, I'm Ahmad! 👋
+
+![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+my+GitHub)  
+
+## 🚀 About Me
+
+I'm a **Computer Science enthusiast** passionate about **Cloud Security, DevSecOps, and Software Development**. Currently diving deep into **IBM, RedHat, and Google Cloud Certifications** while enhancing my expertise in **Cloud Infrastructure and Cybersecurity**.
+
+- 🏢 **Technical Lead** at MLSA Multan  
+- 🏦 **IT Intern** at Faysal Bank  
+- 📚 Pursuing **Bachelor's in Computer Science** at **BZU**  
+- 🌱 Learning **Master Theorem, Assembly, and DevSecOps**
+- 🎨 Also a **Graphic Designer** (340K+ filter uses) & Digital Marketer
+- 💼 Founder of **Aqua Realtors & Builders** and **AbeyAhmadd**
+- ☁️ Cloud Security Geek
+
+## 🛠 Tech Stack & Skills
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+## 🔥 Projects
+
+- **[Wedding Photography Website](https://github.com/yourusername/wedding-photography)** – A beautifully designed website with HTML, CSS, and Bootstrap.
+- **Custom VLAN Configuration Guide** – A structured guide to VLAN setup on Cisco switches.
+- **IoT-Based Security System** – Implemented a smart home security system using Raspberry Pi.
+
+## 📈 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedwsiim) 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ahmedwsiim) 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/alu#6578) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MuhammadAhmad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abeyahmadd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedwsiim) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ahmewsiim) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ahmedwsiim) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ahmedwsiim) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedwsiim&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedwsiim&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedwsiim&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=ahmedwsiim&icon=2&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💡 *"Security isn't a product, it's a process."*
