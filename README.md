@@ -10,7 +10,7 @@
 
 I'm **Muhammad Ahmad**, a **Computer Science enthusiast** passionate about **Cloud Infrastructure, Cybersecurity, and DevSecOps**. My expertise spans from **IT security and networking** to **creative digital content production**.  
 
-🔹 **Technical Lead** at **Microsoft Learn Student Ambassadors (MLSA) - Multan**  
+🔹 **Cloud Computing Lead** at **The Youth Matrix**  
 🔹 **Volunteer** at **Google Developer Student Club (GDSC - BZU)**  
 🔹 **IT Intern** at **Faysal Bank**, where I worked on networking, virtualization, and system security  
 🔹 **Creative Producer** at **International Cricket Masters**, designing engaging digital content  
