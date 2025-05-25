@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Ahmad! 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=700&lines=Cloud+Security+Enthusiast+%7C+DevSecOps+Learner;Technical+Lead+at+MLSA+%7C+Volunteer+at+GDSC;Interned+at+Faysal+Bank+%7C+Graphic+Designer)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=700&lines=Cloud+Security+Enthusiast+%7C+DevSecOps+Learner;Cloud+Computing+Lead+at+The+Youth+Matrix+%7C+Volunteer+at+GDSC;Interned+at+Faysal+Bank+%7C+Graphic+Designer)  
 
 ---
 
