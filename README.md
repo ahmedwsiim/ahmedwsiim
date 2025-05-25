@@ -52,7 +52,6 @@ I'm **Muhammad Ahmad**, a **Computer Science enthusiast** passionate about **Clo
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
