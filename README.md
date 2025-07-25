@@ -1,63 +1,77 @@
 # Hi there, I'm Muhammad Ahmad! 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=700&lines=Cloud+Security+Enthusiast+%7C+DevSecOps+Learner;Cloud+Computing+Lead+at+The+Youth+Matrix+%7C+and+GDSC;Interned+at+Faysal+Bank+%7C+Graphic+Designer)  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B42C&width=700&lines=Cloud+Security+Enthusiast+%7C+DevSecOps+Learner;Cloud+Modernisation+Intern+at+Systems+Limited;MERN+Stack+Deployment+%7C+Docker+Practitioner)
 
 ---
 
 ## 🚀 About Me  
 
-🎓 **Computer Science Student** | ☁️ **Cloud Security Enthusiast** | 💻 **DevSecOps Learner**  
+🎓 **Computer Science Student** | ☁️ **Cloud Security Enthusiast** | 🛠️ **Cloud Modernisation Intern @ Systems Limited**
 
-I'm **Muhammad Ahmad**, a **Computer Science enthusiast** passionate about **Cloud Infrastructure, Cybersecurity, and DevSecOps**. My expertise spans from **IT security and networking** to **creative digital content production**.  
-
-🔹 **Cloud Computing Lead** at **The Youth Matrix**  
-🔹 **Volunteer** at **Google Developer Student Club (GDSC - BZU)**  
-🔹 **IT Intern** at **Faysal Bank**, where I worked on networking, virtualization, and system security  
-🔹 **Creative Producer** at **International Cricket Masters**, designing engaging digital content  
-🔹 **Graphic Designer**, with 340K+ filter uses on Facebook & Instagram  
+I'm **Muhammad Ahmad**, passionate about building secure and scalable cloud-native solutions. I'm currently working as a **Cloud Modernisation Intern** at **[Systems Limited](https://www.systemsltd.com/)** where I’m involved in modern DevOps practices, containerization, and production deployments.
 
 ---
 
-## 🛠 Tech Stack & Skills  
+## 💼 Experience Highlights
+
+🔹 **Cloud Modernisation Intern** – *Systems Limited*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Working on cloud-native architecture, Dockerized application deployment, and automation pipelines  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Gaining hands-on experience in **DevOps, Kubernetes, and Azure** environments
+
+🔹 **Cloud Computing Lead** – *The Youth Matrix*  
+🔹 **Volunteer** – *Google Developer Student Club (GDSC - BZU)*  
+🔹 **IT Intern** – *Faysal Bank*, focused on networking, system security, and virtualization  
+🔹 **Creative Producer** – *International Cricket Masters*  
+🔹 **Graphic Designer** – 340K+ filter uses on Instagram/Facebook  
+
+---
+
+## 🛠 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,linux,docker,kubernetes,python,cpp,cs,dotnet,sql,html,css,js,bash,vscode,git,github" />
-</p>  
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,nodejs,react,mongodb,express,git,github,html,css,js,bash,python,cpp,dotnet,vscode" />
+</p>
 
-✔️ **Cloud Security & Networking** – AWS, GCP, Azure, Virtualization, Firewalls  
-✔️ **DevSecOps & Automation** – Docker, Kubernetes, Linux, Bash, CI/CD  
-✔️ **Programming & Development** – Python, C++, C#, .NET, SQL, Web Dev  
-✔️ **IT Infrastructure** – System Admin, Networking, Cybersecurity  
-✔️ **Creative Design** – Adobe Photoshop, Illustrator, Video Editing  
-
----
-
-## 🔥 Featured Projects  
-
-- **🔒 [Cloud Security Risk Management](https://github.com/yourusername/project-repo)** – Risk assessment framework for cloud security  
-- **🌍 [Network Automation with Python](https://github.com/yourusername/another-repo)** – Automating VLAN & switch configurations  
-- **🎨 [Creative Design Portfolio](https://github.com/yourusername/another-repo)** – A collection of branding & design projects  
+- ☁️ **Cloud Platforms** – AWS, GCP, Azure  
+- 🔐 **Security & Infra** – IAM, System Hardening, Virtualization  
+- 🐳 **DevOps/DevSecOps** – Docker, Kubernetes, CI/CD, Linux, GitHub Actions  
+- 🌍 **Web Development** – MERN Stack (MongoDB, Express, React, Node.js)  
+- 🧠 **Programming** – Python, C++, C#, SQL, Bash  
+- 🎨 **Creative Tools** – Adobe Photoshop, Illustrator, Premiere Pro  
 
 ---
 
-## 🎓 Certifications  
+## 📦 Featured Work: MERN Stack Deployment  
 
-📜 **Strategies for Cloud Security Risk Management** – Google Cloud  
-📜 **Introduction to Cybersecurity** – Cisco Networking Academy  
-📜 **Docker Essentials** – IBM Skills Network  
-📜 **Microsoft Azure Fundamentals** – Microsoft  
+🚀 Dockerized a full-stack **MERN note-taking app** and deployed it on a **Linux-based Azure VM** using production practices:
+
+- 🔁 NGINX reverse proxy & container networking  
+- 🐳 Docker Compose orchestration  
+- 🔐 Secure .env handling & volume mapping  
+- ✅ CI-ready Dockerfiles for frontend & backend  
+
+🔗 [View the Project Repo](https://github.com/ahmedwsiim/mern-notes-docker)
+
+---
+
+## 🧠 Certifications  
+
+- 📘 **Google Cloud** – Strategies for Cloud Security Risk Management  
+- 🛡️ **Cisco Networking Academy** – Introduction to Cybersecurity  
+- 🐳 **IBM Skills Network** – Docker Essentials  
+- ☁️ **Microsoft** – Azure Fundamentals (AZ-900)  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
 ---
 
-## 📢 Let's Connect  
+## 🤝 Let's Connect  
 
 <p align="center">
   <a href="https://linkedin.com/in/ahmedwsiim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
