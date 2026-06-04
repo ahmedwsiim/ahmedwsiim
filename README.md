@@ -10,7 +10,6 @@
 
 I am a dedicated **DevOps and Automation Engineer** specializing in secure, high-availability, and automated cloud-native solutions. 
 
-* **Technical Co-Founder & Lead** at **GoFast**, driving digital transformation and automated cloud infrastructure strategy.
 * **Associate DevOps Engineer** at **GoCloud**, provisioning scalable systems across AWS, Azure, and GCP using Infrastructure as Code (IaC).
 
 ---
