@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmad Wasim! 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=700&lines=Technical+Co-Founder+@+GoFast;Associate+DevOps+Engineer+@+GoCloud;Automating+High-Performance+Cloud+Infrastructure;DevSecOps+%7C+Infrastructure+as+Code)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=700&lines=Associate+DevOps+Engineer+@+GoCloud;Multi-Cloud+Automation+%7C+IaC+%26+CI%2FCD;Securing+High-Performance+Infrastructure;DevSecOps+Practitioner)
 
 ---
 
@@ -10,15 +10,21 @@
 
 I am a dedicated **DevOps and Automation Engineer** specializing in secure, high-availability, and automated cloud-native solutions. 
 
-* **Associate DevOps Engineer** at **GoCloud**, provisioning scalable systems across AWS, Azure, and GCP using Infrastructure as Code (IaC).
+* **Associate DevOps Engineer** at **GoCloud**, provisioning scalable multi-tier architectures and production applications across AWS, Azure, and GCP.
+* Passionate about architecting core cloud automation strategies, guiding technology roadmaps, and managing foundational infrastructure setup for digital transformations.
 
 ---
 
 ## 💼 Professional Experience  
 
 🔹 **Associate DevOps Engineer** – *GoCloud* (Jun 2026 – Present)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Provisioning and managing multi-cloud infrastructure (AWS, Azure, GCP) using **Terraform**.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Designing automated CI/CD deployment pipelines to optimize application performance and uptime.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Provisioned, hardened, and managed scalable cloud environments across AWS, Azure, and GCP platforms.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Designed and maintained automated **GitHub CI/CD pipelines** for hands-free software application deployment.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Implemented multi-tier web stacks on **AWS EC2** using **NGINX** and **Apache2** reverse proxies, reverse-routing Node.js, Python, PHP, and static HTML workloads.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Deployed secure full-stack architectures (React frontend / Node.js backend) backed by managed **AWS RDS relational databases**.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Engineered automated background execution for services using Linux **systemd init daemons** to guarantee maximum service uptime.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Scaled and migrated Content Management Systems (CMS) via **AWS Lightsail**, executing manual file/DB backup extractions and deterministic environment syncs.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Hardened public-facing web infrastructure with automated **Let's Encrypt SSL/TLS certificates** and Route 53 domain mapping.
 
 🔹 **DevOps Intern** – *Systems Limited* (Jul 2025 – Sep 2025)  
 &nbsp;&nbsp;&nbsp;&nbsp;• Built global serverless CDNs on AWS (S3, CloudFront) with GitHub Actions, reducing latency by 50%.  
@@ -32,17 +38,22 @@ I am a dedicated **DevOps and Automation Engineer** specializing in secure, high
 ## 🛠 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,linux,nginx,git,github,githubactions,python,django,postgres,bash,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,linux,nginx,apache,git,github,githubactions,python,django,postgres,mysql,bash,nodejs,react" />
 </p>
 
-* ☁️ **Cloud Platforms & IaC:** AWS, Microsoft Azure, GCP, Terraform
+* ☁️ **Cloud Platforms & IaC:** AWS (EC2, RDS, Lightsail, Route 53), Microsoft Azure, GCP, Terraform
+* ⚙️ **Web Servers & Proxies:** NGINX, Apache2, SSL/TLS (Let's Encrypt)
 * 🐳 **Containerization & Orchestration:** Docker, Docker Compose, Kubernetes, Docker Swarm
-* ⚙️ **CI/CD & Automation:** GitHub Actions, Linux administration, Bash, Network security
-* 🌍 **Web Frameworks & Databases:** Django, MERN Stack (MongoDB, Express, React, Node.js), PostgreSQL
+* 🚀 **CI/CD & System Automation:** GitHub Actions, Linux administration (Systemd), Bash scripting
+* 🌍 **Languages & Frameworks:** Node.js, Python (Django/Flask), PHP, MERN Stack, MySQL, PostgreSQL
 
 ---
 
 ## 📦 Featured Production Projects  
+
+🔹 **AWS Multi-Tier Stack & Deployment Blueprints**  
+&nbsp;&nbsp;&nbsp;&nbsp;• Configured decoupled production web stacks on EC2 including background-daemonized Node.js applications, Python services, and multi-virtual-host PHP configurations.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Orchestrated secure database peering linking elastic EC2 web runtimes to isolated AWS RDS relational databases.  
 
 🔹 **KPRY – Streetwear Discovery Engine**  
 &nbsp;&nbsp;&nbsp;&nbsp;• A minimalist, brutalist-inspired aggregator tracking the Pakistani streetwear landscape.  
@@ -51,9 +62,6 @@ I am a dedicated **DevOps and Automation Engineer** specializing in secure, high
 🔹 **Resilient Real-Time Content Aggregator**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Built a data ingestion engine utilizing containerized Playwright, Telethon, and Google Translate API.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Integrated Cloudflare DDoS mitigation, strict SSL encryption, and NGINX reverse proxies behind an isolated PostgreSQL DB setup.  
-
-🔹 **Automated CI/CD Movie Recommender**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Deployed a multi-stage containerized FastAPI + Streamlit app on Azure with zero-downtime release pipelines.  
 
 ---
 
