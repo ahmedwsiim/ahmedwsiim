@@ -1,72 +1,73 @@
-# Hi there, I'm Muhammad Ahmad! 👋  
+# Hi there, I'm Ahmad Wasim! 👋  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=700&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Docker+%26+Kubernetes+Practitioner;CI%2FCD+Automation+%7C+Azure+%26+AWS;Security+Driven+Cloud+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=700&lines=Technical+Co-Founder+@+GoFast;Associate+DevOps+Engineer+@+GoCloud;Automating+High-Performance+Cloud+Infrastructure;DevSecOps+%7C+Infrastructure+as+Code)
 
 ---
 
 ## 🚀 About Me  
 
-🎓 **Computer Science Student** | ☁️ **DevOps Engineer & Cloud Enthusiast** | 🔐 **DevSecOps Learner**
+🎓 **Computer Science Graduate** (BZU, 2026) | 🛠 **DevOps & Automation Engineer** | ☁️ **Cloud Architect**
 
-I'm **Muhammad Ahmad**, passionate about building secure, scalable, and automated **cloud-native solutions**.  
-Currently working as a **Cloud Modernisation Intern** at **[Systems Limited](https://www.systemsltd.com/)**, focusing on **containerization, CI/CD pipelines, and production deployments** in Azure & hybrid cloud environments.  
+I am a dedicated **DevOps and Automation Engineer** specializing in secure, high-availability, and automated cloud-native solutions. 
+
+* **Technical Co-Founder & Lead** at **GoFast**, driving digital transformation and automated cloud infrastructure strategy.
+* **Associate DevOps Engineer** at **GoCloud**, provisioning scalable systems across AWS, Azure, and GCP using Infrastructure as Code (IaC).
 
 ---
 
-## 💼 Experience Highlights  
+## 💼 Professional Experience  
 
-🔹 **Cloud Modernisation Intern** – *Systems Limited*  
-&nbsp;&nbsp;&nbsp;&nbsp;• Designing and deploying containerized applications with **Docker & Azure**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Building automation workflows with **GitHub Actions CI/CD**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Exposure to **Kubernetes, cloud networking, and infrastructure security**  
+🔹 **Technical Co-Founder & Technical Lead** – *GoFast* (2026 – Present)  
+&nbsp;&nbsp;&nbsp;&nbsp;• Architecting core cloud automation strategies and managing foundational infrastructure setup.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Guiding technology roadmaps for seamless enterprise digital transformations.  
 
-🔹 **Cloud Computing Lead** – *The Youth Matrix*  
-🔹 **Volunteer** – *Google Developer Student Club (GDSC - BZU)*  
-🔹 **IT Intern** – *Faysal Bank* – Networking, system security, and virtualization  
-🔹 **Creative Producer** – *International Cricket Masters*  
-🔹 **Graphic Designer** – 340K+ Instagram/Facebook filter uses  
+🔹 **Associate DevOps Engineer** – *GoCloud* (Jun 2026 – Present)  
+&nbsp;&nbsp;&nbsp;&nbsp;• Provisioning and managing multi-cloud infrastructure (AWS, Azure, GCP) using **Terraform**.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Designing automated CI/CD deployment pipelines to optimize application performance and uptime.  
+
+🔹 **DevOps Intern** – *Systems Limited* (Jul 2025 – Sep 2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;• Built global serverless CDNs on AWS (S3, CloudFront) with GitHub Actions, reducing latency by 50%.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Engineered production-grade, secure MERN & Flask applications using Docker, NGINX reverse proxies, and IAM roles.  
+
+🔹 **Technical Operations Lead** – *HashTurn*  
+&nbsp;&nbsp;&nbsp;&nbsp;• Managed systems delivery, automated infrastructure workflows, and deployment cycles.  
 
 ---
 
 ## 🛠 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,docker,kubernetes,nginx,git,github,githubactions,react,nodejs,express,mongodb,python,cpp,cs,html,css,js,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,linux,nginx,git,github,githubactions,python,django,postgres,bash,react,nodejs,express,mongodb" />
 </p>
 
-- ☁️ **Cloud Platforms** – AWS, Azure, GCP  
-- 🐳 **DevOps/Automation** – Docker, Kubernetes, GitHub Actions, CI/CD  
-- 🔐 **Security & Infra** – IAM, System Hardening, Virtualization  
-- 🌍 **Web Development** – MERN Stack (MongoDB, Express, React, Node.js)  
-- 🧠 **Programming** – Python, C++, C#, SQL, Bash  
-- 🎨 **Creative Tools** – Adobe Photoshop, Illustrator, Premiere Pro  
+* ☁️ **Cloud Platforms & IaC:** AWS, Microsoft Azure, GCP, Terraform
+* 🐳 **Containerization & Orchestration:** Docker, Docker Compose, Kubernetes, Docker Swarm
+* ⚙️ **CI/CD & Automation:** GitHub Actions, Linux administration, Bash, Network security
+* 🌍 **Web Frameworks & Databases:** Django, MERN Stack (MongoDB, Express, React, Node.js), PostgreSQL
 
 ---
 
-## 📦 Featured Projects  
+## 📦 Featured Production Projects  
+
+🔹 **KPRY – Streetwear Discovery Engine**  
+&nbsp;&nbsp;&nbsp;&nbsp;• A minimalist, brutalist-inspired aggregator tracking the Pakistani streetwear landscape.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Consolidates disparate e-commerce drop data into a single-screen query experience.  
+
+🔹 **Resilient Real-Time Content Aggregator**  
+&nbsp;&nbsp;&nbsp;&nbsp;• Built a data ingestion engine utilizing containerized Playwright, Telethon, and Google Translate API.  
+&nbsp;&nbsp;&nbsp;&nbsp;• Integrated Cloudflare DDoS mitigation, strict SSL encryption, and NGINX reverse proxies behind an isolated PostgreSQL DB setup.  
 
 🔹 **Automated CI/CD Movie Recommender**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Full-stack FastAPI + Streamlit app  
-&nbsp;&nbsp;&nbsp;&nbsp;• Dockerized & deployed on **Azure with GitHub Actions CI/CD** for zero-downtime releases  
-
-🔹 **Docker-Orchestrated Full-Stack Notes Platform**  
-&nbsp;&nbsp;&nbsp;&nbsp;• MERN stack note-taking app  
-&nbsp;&nbsp;&nbsp;&nbsp;• Production deployment with **Docker Compose, NGINX reverse proxy, secure .env handling**  
-
-🔹 **More Hands** – Charity Donation App  
-&nbsp;&nbsp;&nbsp;&nbsp;• React Native + Firebase  
-&nbsp;&nbsp;&nbsp;&nbsp;• Real-time sync, custom payments, image uploads, animated success flows  
+&nbsp;&nbsp;&nbsp;&nbsp;• Deployed a multi-stage containerized FastAPI + Streamlit app on Azure with zero-downtime release pipelines.  
 
 ---
 
 ## 🧠 Certifications  
 
-- ☁️ **Oracle Certified**  
-- ☁️ **IBM Certified**  
-- 📘 **Google Cloud** – Strategies for Cloud Security Risk Management  
-- 🛡️ **Cisco Networking Academy** – Introduction to Cybersecurity  
-- 🐳 **IBM Skills Network** – Docker Essentials  
-- ☁️ **Microsoft** – Azure Fundamentals (AZ-900)  
+* ☁️ **Oracle Cloud Infrastructure** (2024)
+* 🐳 **IBM** – Introduction to Containers w/ Docker, Kubernetes & OpenShift
+* 🛡️ **U.S. Department of Homeland Security** – Cybersecurity & Infrastructure Security
+* 📘 **Google Cloud** – Strategies for Cloud Security Risk Management
 
 ---
 
