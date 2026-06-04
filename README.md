@@ -16,10 +16,6 @@ I am a dedicated **DevOps and Automation Engineer** specializing in secure, high
 
 ## 💼 Professional Experience  
 
-🔹 **Technical Co-Founder & Technical Lead** – *GoFast* (2026 – Present)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Architecting core cloud automation strategies and managing foundational infrastructure setup.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Guiding technology roadmaps for seamless enterprise digital transformations.  
-
 🔹 **Associate DevOps Engineer** – *GoCloud* (Jun 2026 – Present)  
 &nbsp;&nbsp;&nbsp;&nbsp;• Provisioning and managing multi-cloud infrastructure (AWS, Azure, GCP) using **Terraform**.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Designing automated CI/CD deployment pipelines to optimize application performance and uptime.  
