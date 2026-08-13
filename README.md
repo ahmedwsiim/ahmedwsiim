@@ -16,6 +16,8 @@ Lahore, Pakistan &nbsp;·&nbsp; Associate DevOps Engineer @ GoCloud &nbsp;·&nbs
 
 DevOps and Cloud Infrastructure Engineer specializing in secure, automated, multi-cloud environments. Currently building production infrastructure at GoCloud, with a focus on Infrastructure-as-Code, CI/CD automation, and security compliance systems on AWS. Experienced in taking manual operational workflows and converting them into deterministic, self-service automation.
 
+**Core competencies:** Cloud Architecture · Infrastructure as Code · CI/CD Automation · DevSecOps · Multi-Tenant Systems Design
+
 <br>
 
 ## Experience
@@ -96,8 +98,40 @@ DevOps and Cloud Infrastructure Engineer specializing in secure, automated, mult
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedwsiim&show_icons=true&theme=default_repocard&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=333333&icon_color=555555" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwsiim&theme=default&hide_border=true&background=ffffff&ring=555555&fire=333333&currStreakNum=1a1a1a" width="48%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ahmedwsiim&show_icons=true&theme=transparent&hide_border=true&title_color=8ab4f8&icon_color=8ab4f8&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ahmedwsiim&show_icons=true&theme=transparent&hide_border=true&title_color=1a1a2e&icon_color=3b5bdb&text_color=333333" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedwsiim&show_icons=true&theme=transparent&hide_border=true&title_color=1a1a2e&icon_color=3b5bdb&text_color=333333" width="48%" alt="Ahmad's GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=transparent&hide_border=true&title_color=8ab4f8&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=transparent&hide_border=true&title_color=1a1a2e&text_color=333333" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=transparent&hide_border=true&title_color=1a1a2e&text_color=333333" width="48%" alt="Top Languages" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwsiim&theme=transparent&hide_border=true&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=808080" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwsiim&theme=transparent&hide_border=true&ring=3b5bdb&fire=3b5bdb&currStreakLabel=1a1a2e&currStreakNum=1a1a2e&sideNums=333333&sideLabels=333333&dates=808080" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwsiim&theme=transparent&hide_border=true&ring=3b5bdb&fire=3b5bdb&currStreakLabel=1a1a2e&currStreakNum=1a1a2e&sideNums=333333&sideLabels=333333&dates=808080" width="97%" alt="GitHub Streak" />
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ahmedwsiim&theme=github-compact&hide_border=true&bg_color=00000000&color=8ab4f8&line=8ab4f8&point=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ahmedwsiim&theme=minimal&hide_border=true&bg_color=00000000&color=3b5bdb&line=3b5bdb&point=1a1a2e" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedwsiim&theme=minimal&hide_border=true&bg_color=00000000&color=3b5bdb&line=3b5bdb&point=1a1a2e" width="97%" alt="Contribution Graph" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=ahmedwsiim&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=ahmedwsiim&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedwsiim&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="97%" alt="GitHub Trophies" />
+</picture>
 
 </div>
 
