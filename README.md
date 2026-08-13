@@ -1,93 +1,78 @@
-# Hi there, I'm Ahmad Wasim! 👋  
+<div align="center">
+
+# Hi, I'm Ahmad Wasim 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=700&lines=Associate+DevOps+Engineer+@+GoCloud;Multi-Cloud+Automation+%7C+IaC+%26+CI%2FCD;Securing+High-Performance+Infrastructure;DevSecOps+Practitioner)
 
----
+**Computer Science Graduate (2026) | DevOps & Automation Engineer | Cloud Architect**
 
-## 🚀 About Me  
+I specialize in building secure, high-availability, and automated cloud-native solutions, architecting core infrastructure strategies to drive digital transformations.
 
-🎓 **Computer Science Graduate** (BZU, 2026) | 🛠 **DevOps & Automation Engineer** | ☁️ **Cloud Architect**
-
-I am a dedicated **DevOps and Automation Engineer** specializing in secure, high-availability, and automated cloud-native solutions. 
-
-* **Associate DevOps Engineer** at **GoCloud**, provisioning scalable multi-tier architectures and production applications across AWS, Azure, and GCP.
-* Passionate about architecting core cloud automation strategies, guiding technology roadmaps, and managing foundational infrastructure setup for digital transformations.
+</div>
 
 ---
 
-## 💼 Professional Experience  
+### 💼 Professional Experience
 
-🔹 **Associate DevOps Engineer** – *GoCloud* (Jun 2026 – Present)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Provisioned, hardened, and managed scalable cloud environments across AWS, Azure, and GCP platforms.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Designed and maintained automated **GitHub CI/CD pipelines** for hands-free software application deployment.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Implemented multi-tier web stacks on **AWS EC2** using **NGINX** and **Apache2** reverse proxies, reverse-routing Node.js, Python, PHP, and static HTML workloads.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Deployed secure full-stack architectures (React frontend / Node.js backend) backed by managed **AWS RDS relational databases**.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Engineered automated background execution for services using Linux **systemd init daemons** to guarantee maximum service uptime.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Scaled and migrated Content Management Systems (CMS) via **AWS Lightsail**, executing manual file/DB backup extractions and deterministic environment syncs.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Hardened public-facing web infrastructure with automated **Let's Encrypt SSL/TLS certificates** and Route 53 domain mapping.
+**Associate DevOps Engineer** @ **GoCloud** *(Jun 2026 – Present)*
+* Provisioned and managed scalable cloud environments across AWS, Azure, and GCP.
+* Designed automated GitHub CI/CD pipelines for hands-free software deployments.
+* Implemented multi-tier web stacks on AWS EC2 using NGINX and Apache2 reverse proxies.
+* Deployed secure full-stack architectures backed by managed AWS RDS databases.
+* Engineered background execution using Linux systemd daemons for maximum service uptime.
+* Scaled CMS platforms via AWS Lightsail using deterministic environment syncs and backups.
+* Hardened web infrastructure with automated Let's Encrypt SSL/TLS and Route 53 domain mapping.
 
-🔹 **DevOps Intern** – *Systems Limited* (Jul 2025 – Sep 2025)  
-&nbsp;&nbsp;&nbsp;&nbsp;• Built global serverless CDNs on AWS (S3, CloudFront) with GitHub Actions, reducing latency by 50%.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Engineered production-grade, secure MERN & Flask applications using Docker, NGINX reverse proxies, and IAM roles.  
+**DevOps Intern** @ **Systems Limited** *(Jul 2025 – Sep 2025)*
+* Built global serverless CDNs on AWS (S3, CloudFront) with GitHub Actions, reducing latency by 50%.
+* Engineered production-grade, secure MERN & Flask applications using Docker and NGINX.
 
-🔹 **Technical Operations Lead** – *HashTurn*  
-&nbsp;&nbsp;&nbsp;&nbsp;• Managed systems delivery, automated infrastructure workflows, and deployment cycles.  
+**Technical Operations Lead** @ **HashTurn**
+* Managed systems delivery, automated infrastructure workflows, and deployment cycles.
 
 ---
 
-## 🛠 Tech Stack & Tools  
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,kubernetes,linux,nginx,apache,git,github,githubactions,python,django,postgres,mysql,bash,nodejs,react" />
 </p>
 
-* ☁️ **Cloud Platforms & IaC:** AWS (EC2, RDS, Lightsail, Route 53), Microsoft Azure, GCP, Terraform
-* ⚙️ **Web Servers & Proxies:** NGINX, Apache2, SSL/TLS (Let's Encrypt)
-* 🐳 **Containerization & Orchestration:** Docker, Docker Compose, Kubernetes, Docker Swarm
-* 🚀 **CI/CD & System Automation:** GitHub Actions, Linux administration (Systemd), Bash scripting
-* 🌍 **Languages & Frameworks:** Node.js, Python (Django/Flask), PHP, MERN Stack, MySQL, PostgreSQL
+* **Cloud & IaC:** AWS (EC2, RDS, Lightsail, Route 53), Azure, GCP, Terraform
+* **Web & Proxies:** NGINX, Apache2, SSL/TLS
+* **Containers & Orchestration:** Docker, Kubernetes, Docker Swarm
+* **CI/CD & OS:** GitHub Actions, Linux (Systemd), Bash
+* **Languages & DBs:** Node.js, Python, PHP, MySQL, PostgreSQL
 
 ---
 
-## 📦 Featured Production Projects  
+### 📦 Featured Projects
 
-🔹 **AWS Multi-Tier Stack & Deployment Blueprints**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Configured decoupled production web stacks on EC2 including background-daemonized Node.js applications, Python services, and multi-virtual-host PHP configurations.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Orchestrated secure database peering linking elastic EC2 web runtimes to isolated AWS RDS relational databases.  
-
-🔹 **KPRY – Streetwear Discovery Engine**  
-&nbsp;&nbsp;&nbsp;&nbsp;• A minimalist, brutalist-inspired aggregator tracking the Pakistani streetwear landscape.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Consolidates disparate e-commerce drop data into a single-screen query experience.  
-
-🔹 **Resilient Real-Time Content Aggregator**  
-&nbsp;&nbsp;&nbsp;&nbsp;• Built a data ingestion engine utilizing containerized Playwright, Telethon, and Google Translate API.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Integrated Cloudflare DDoS mitigation, strict SSL encryption, and NGINX reverse proxies behind an isolated PostgreSQL DB setup.  
+* **AWS Multi-Tier Stack Blueprints:** Configured decoupled production web stacks on EC2 (Node.js, Python, PHP) with secure database peering to isolated AWS RDS relational databases.
+* **HashDash:** Engineered a cross-platform desktop management system utilizing Electron.js and WebRTC.
+* **KPRY (Streetwear Discovery Engine):** Built a minimalist, brutalist-inspired aggregator tracking e-commerce drops utilizing a Next.js and Django architecture.
+* **C-HAMP (Cloud-Hosted Automotive Management Platform):** Developed a comprehensive cloud-managed platform for automotive workflows.
+* **Resilient Content Aggregator:** Built a data ingestion engine (Playwright, Telethon) integrated with Cloudflare DDoS mitigation, strict SSL encryption, and an isolated PostgreSQL setup.
 
 ---
 
-## 🧠 Certifications  
+### 🧠 Certifications
 
-* ☁️ **Oracle Cloud Infrastructure** (2024)
-* 🐳 **IBM** – Introduction to Containers w/ Docker, Kubernetes & OpenShift
-* 🛡️ **U.S. Department of Homeland Security** – Cybersecurity & Infrastructure Security
-* 📘 **Google Cloud** – Strategies for Cloud Security Risk Management
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
+* **Oracle Cloud Infrastructure** (2024)
+* **IBM** – Introduction to Containers, Docker, Kubernetes & OpenShift
+* **U.S. Department of Homeland Security** – Cybersecurity & Infrastructure Security
+* **Google Cloud** – Strategies for Cloud Security Risk Management
 
 ---
 
-## 🤝 Let's Connect  
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C4FF&text_color=c9d1d9" alt="Top Languages" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/ahmedwsiim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/ahmedwsiim"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://ahmedwsiim.github.io"><img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>  
+<br><br>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedwsiim)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmedwsiim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=firefox&logoColor=white)](https://ahmedwsiim.github.io)
+
+</div>
