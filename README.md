@@ -98,20 +98,20 @@ DevOps and Cloud Infrastructure Engineer specializing in secure, automated, mult
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedwsiim&show_icons=true&theme=transparent&hide_border=true&title_color=8ab4f8&icon_color=8ab4f8&text_color=c9d1d9" width="48%" alt="Ahmad's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=transparent&hide_border=true&title_color=8ab4f8&text_color=c9d1d9" width="48%" alt="Top Languages" />
+[![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedwsiim&show_icons=true&theme=transparent&hide_border=true&title_color=8ab4f8&icon_color=8ab4f8&text_color=c9d1d9)](https://github.com/ahmedwsiim)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=transparent&hide_border=true&title_color=8ab4f8&text_color=c9d1d9)](https://github.com/ahmedwsiim)
 
 <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedwsiim&theme=transparent&hide_border=true&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=808080" width="97%" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedwsiim&theme=transparent&hide_border=true&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=808080)](https://github.com/ahmedwsiim)
 
 <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedwsiim&theme=github-compact&hide_border=true&bg_color=00000000&color=8ab4f8&line=8ab4f8&point=c9d1d9" width="97%" alt="Contribution Graph" />
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedwsiim&theme=github-compact&hide_border=true&bg_color=00000000&color=8ab4f8&line=8ab4f8&point=c9d1d9)](https://github.com/ahmedwsiim)
 
 <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedwsiim&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="97%" alt="GitHub Trophies" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedwsiim&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ahmedwsiim)
 
 </div>
 
