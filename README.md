@@ -99,18 +99,17 @@ DevOps and Cloud Infrastructure Engineer specializing in secure, automated, mult
 
 <div align="center">
 
-<table>
-<tr>
-<td><img src="./profile/stats.svg" alt="Ahmad's GitHub Stats" /></td>
-<td><img src="./profile/top-langs.svg" alt="Top Languages" /></td>
-</tr>
-</table>
+<a href="https://github.com/ahmedwsiim">
+  <img src="https://img.shields.io/github/followers/ahmedwsiim?style=for-the-badge&logo=github&color=8ab4f8&labelColor=0d1117&label=Followers" alt="GitHub Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/ahmedwsiim?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20All-8ab4f8?style=for-the-badge&logo=github&labelColor=0d1117" alt="View Repositories" />
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedwsiim&theme=transparent&hide_border=true&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=808080)](https://github.com/ahmedwsiim)
+<br><br>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedwsiim&theme=github-compact&hide_border=true&bg_color=00000000&color=8ab4f8&line=8ab4f8&point=c9d1d9&custom_title=Ahmad%20Wasim's%20Contribution%20Graph)](https://github.com/ahmedwsiim)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedwsiim&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ahmedwsiim)
+<sub>Live contribution history, streaks, and pinned repos are visible directly on my <a href="https://github.com/ahmedwsiim">GitHub profile</a>.</sub>
 
 </div>
 
