@@ -101,8 +101,8 @@ DevOps and Cloud Infrastructure Engineer specializing in secure, automated, mult
 
 <table>
 <tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=ahmedwsiim&show_icons=true&theme=transparent&hide_border=true&title_color=8ab4f8&icon_color=8ab4f8&text_color=c9d1d9" alt="Ahmad's GitHub Stats" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=transparent&hide_border=true&title_color=8ab4f8&text_color=c9d1d9" alt="Top Languages" /></td>
+<td><img src="./profile/stats.svg" alt="Ahmad's GitHub Stats" /></td>
+<td><img src="./profile/top-langs.svg" alt="Top Languages" /></td>
 </tr>
 </table>
 
