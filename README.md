@@ -14,7 +14,7 @@ Lahore, Pakistan &nbsp;·&nbsp; Associate DevOps Engineer @ GoCloud &nbsp;·&nbs
 
 ## Profile
 
-DevOps and Cloud Infrastructure Engineer specializing in secure, automated, multi-cloud environments. Currently building production infrastructure at GoCloud, with a focus on Infrastructure-as-Code, CI/CD automation, and security compliance systems on AWS. Experienced in taking manual operational workflows and converting them into deterministic, self-service automation.
+DevOps and Cloud Infrastructure Engineer specializing in secure, automated, multi-cloud environments. Currently building production infrastructure at GoCloud, with a focus on Infrastructure-as-Code, CI/CD automation, and security compliance systems on AWS. AWS Certified Solutions Architect – Associate. Experienced in taking manual operational workflows and converting them into deterministic, self-service automation.
 
 **Core competencies:** Cloud Architecture · Infrastructure as Code · CI/CD Automation · DevSecOps · Multi-Tenant Systems Design
 
@@ -87,6 +87,7 @@ DevOps and Cloud Infrastructure Engineer specializing in secure, automated, mult
 
 | Certification | Issuing Organization | Year |
 |---|---|---|
+| AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services | 2026 |
 | Oracle Cloud Infrastructure | Oracle | 2024 |
 | Containers, Docker, Kubernetes & OpenShift | IBM | — |
 | Cybersecurity & Infrastructure Security | U.S. Department of Homeland Security | — |
