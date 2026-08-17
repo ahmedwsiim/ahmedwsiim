@@ -4,12 +4,9 @@
 
 **DevOps & Cloud Infrastructure Engineer**
 
-Multan & Lahore, Pakistan &nbsp;·&nbsp; Associate DevOps Engineer @ GoCloud &nbsp;·&nbsp; B.S. Computer Science (CGPA: 3.80)
+Lahore, Pakistan &nbsp;·&nbsp; Associate DevOps Engineer @ GoCloud &nbsp;·&nbsp; B.S. Computer Science, 2026
 
-[![AWS Certified](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://linkedin.com/in/ahmedwsiim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmedwsiim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedwsiim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedwsiim.github.io-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmedwsiim.github.io)
-[![Twitter](https://img.shields.io/badge/X-@ahmedwsiim-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ahmedwsiim)
+[LinkedIn](https://linkedin.com/in/ahmedwsiim) &nbsp;·&nbsp; [Twitter](https://x.com/ahmedwsiim) &nbsp;·&nbsp; [Portfolio](https://ahmedwsiim.github.io)
 
 </div>
 
@@ -17,49 +14,41 @@ Multan & Lahore, Pakistan &nbsp;·&nbsp; Associate DevOps Engineer @ GoCloud &nb
 
 ## Profile
 
-DevOps and Cloud Infrastructure Engineer specializing in enterprise-grade AWS infrastructure, Infrastructure as Code (Terraform), zero-trust security automation, and FinOps. Currently engineering automated multi-region architectures, serverless compliance pipelines, and containerized microservices at GoCloud. 
+DevOps and Cloud Infrastructure Engineer specializing in architecting resilient, automated, and secure multi-cloud environments. Currently engineering production infrastructure at GoCloud, focusing on Infrastructure as Code (Terraform), Kubernetes & container orchestration, automated DevSecOps compliance, and enterprise cloud migrations on AWS. AWS Certified Solutions Architect – Associate with a proven track record of transforming manual operational overhead into deterministic, self-service CI/CD and serverless systems.
 
-**Core Competencies:** Multi-Region Cloud Architecture · Infrastructure as Code (Terraform) · CI/CD Automation (OIDC) · DevSecOps & Log Governance · FinOps & Cost Optimization · Container Orchestration (ECS / EKS)
+**Core Competencies:** Cloud Architecture · Infrastructure as Code (IaC) · CI/CD Automation · DevSecOps · Multi-Tenant SaaS Design · FinOps & Cost Optimization · Disaster Recovery
 
 <br>
 
-## Work Experience
+## Experience
 
 **Associate DevOps Engineer** — GoCloud
-<br><sub>Jun 2026 – Present &nbsp;·&nbsp; On-site</sub>
+<br><sub>June 2026 – Present</sub>
 
-- **Multi-Tenant FinTech Architecture:** Designed an end-to-end multi-tenant infrastructure on AWS using Terraform and serverless patterns. Enforced account isolation via AWS Control Tower, data isolation via PostgreSQL Row-Level Security (RLS), and automated ingestion/PII redaction via Step Functions and Amazon Comprehend. Replaced multi-hour manual rollouts with a 15-minute 1-click CI/CD workflow.
-- **Automated Security & Log Governance:** Engineered a serverless Python 3.12 Lambda engine aggregating findings across AWS Security Hub, GuardDuty, Inspector V2, Config, and WAF into daily automated reports. Hardened audit lifecycles across 40+ CloudWatch log groups, VPC Flow Logs, and CloudTrail, saving 550–730 analyst hours annually.
-- **FinOps & Cost Optimization:** Re-architected log ingestion pipelines (CloudFront Access Logs vs. standalone WAF logging), slashing logging spend by ~90% ($500–$1,500 annual savings) and eliminating indefinite retention costs.
-- **Container & Cluster Operations:** Built and deployed microservices on AWS ECS Fargate and EKS with automated TLS, ALB ingress, and auto-scaling policies.
-- **Zero-Trust CI/CD:** Automated GitHub Actions delivery pipelines using OIDC authentication and AWS Systems Manager (SSM), eliminating long-lived credentials and public SSH exposure across client environments.
+- **Multi-Tenant SaaS Architecture:** Engineered an isolated multi-tenant architecture on AWS via Terraform using AWS Control Tower for account isolation and PostgreSQL Row-Level Security (RLS) for data layers. Automated data ingestion and real-time PII redaction using AWS Step Functions and Amazon Comprehend, integrating Amazon Bedrock for sanitized AI summaries with a 15-minute 1-click CI/CD deployment.
+- **Security Automation & Governance:** Built a serverless security reporting engine (Python 3.12 Lambda) consolidating daily findings across AWS Security Hub, GuardDuty, Inspector V2, Config, and WAF with automated SNS alerting. Eliminated 550–730 analyst-hours annually with execution runs under 15 seconds.
+- **Container Orchestration & CI/CD:** Deployed production workloads across Amazon EKS and ECS Fargate with target-tracking auto-scaling and automated TLS termination. Configured zero-SSH GitHub Actions CI/CD pipelines using AWS OIDC federation and AWS Systems Manager (SSM).
+- **Log Governance & FinOps:** Standardized 90-day retention policies across 40+ CloudWatch log groups, implemented 365-day CloudTrail audit integrity trails, and transitioned to CloudFront Access Logs, cutting annual WAF logging costs by ~90% and log storage spend by up to $1,200/year.
+- **Multi-Region Disaster Recovery:** Provisioned cross-region production infrastructure across `us-east-1` and `us-west-2` with Aurora PostgreSQL Serverless v2 Global Databases, achieving RTO < 60s and RPO < 1s.
 
 <br>
 
 **DevOps Engineer** — HashTurn
-<br><sub>Oct 2025 – May 2026 &nbsp;·&nbsp; On-site</sub>
+<br><sub>October 2025 – May 2026</sub>
 
-- **Full-Stack & Cloud Deployments:** Architected and deployed scalable production applications (MERN, PERN, Python Flask) across AWS and Linux VPS environments with NGINX reverse proxying and automated SSL/TLS management.
-- **System Architecture:** Spearheaded foundational architectural decisions and automated development environments, serving as a technical proxy for the engineering team.
-- **Desktop System Delivery:** Architected and launched *HashDash*, an HR and workforce management desktop application using Electron.js, Vite, and WebRTC.
-- **Automated Data Scraping:** Developed high-throughput automated scrapers to optimize internal workflows and multi-source data aggregation.
+- Engineered and deployed cross-stack production applications (MERN, PERN, Python Flask) across VPS and AWS infrastructure with zero-downtime NGINX reverse proxy configurations.
+- Architected and launched **HashDash**, a cross-platform employee management desktop suite built with Electron.js and WebRTC for live internal monitoring.
+- Built automated background data extraction engines and scrapers to eliminate manual data aggregation workflows.
+- Managed DNS routing, domain infrastructure, and SSL/TLS lifecycle automation across multiple client web environments.
 
 <br>
 
 **DevOps Intern** — Systems Limited
-<br><sub>Jul 2025 – Sep 2025 &nbsp;·&nbsp; On-site</sub>
+<br><sub>July 2025 – September 2025</sub>
 
-- **CDN Acceleration:** Codified CI/CD pipelines for immutable artifact publishing to AWS S3 and CloudFront cache invalidation, reducing global asset delivery latency by 50%.
-- **Cloud Modernization:** Containerized full-stack applications with Docker, configured NGINX reverse proxies with SSL termination, and provisioned multi-cloud infrastructure (AWS EC2, Azure VMs) via Terraform.
-- **Least-Privilege IAM:** Enforced strict IAM role policies, secure secret management, and deterministic artifact versioning.
-
-<br>
-
-**Networking & Infrastructure Intern** — Faysal Bank Limited
-<br><sub>Jul 2024 – Aug 2024 &nbsp;·&nbsp; On-site</sub>
-
-- Configured enterprise routing, switching, and patch infrastructure across LAN/WAN networks.
-- Resolved 150+ IT infrastructure tickets (95% first-call resolution rate) and assisted with Oracle Financials SQL reporting workflows.
+- Built an immutable, globally distributed CDN pipeline with AWS S3, CloudFront, and GitHub Actions, cutting static asset delivery latency by 50%.
+- Codified automated multi-cloud deployment pipelines on AWS EC2 and Azure VMs using Terraform, Docker, and GitHub Actions.
+- Hardened server and pipeline security using least-privilege IAM policies, scoped S3 access control, and SSH key management.
 
 <br>
 
@@ -67,55 +56,51 @@ DevOps and Cloud Infrastructure Engineer specializing in enterprise-grade AWS in
 
 | Domain | Technologies & Tools |
 |---|---|
-| **Cloud Providers** | Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) |
-| **AWS Core Services** | EC2, ECS Fargate, EKS, Lambda, S3, CloudFront (OAC), RDS Aurora Serverless v2, ElastiCache Redis, Route 53, Control Tower, Step Functions, PrivateLink, KMS |
+| **Cloud Platforms** | Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) |
+| **AWS Core Services** | EC2, ECS Fargate, EKS, Lambda, S3, CloudFront, RDS, Aurora Serverless v2, ElastiCache, Route 53, Control Tower, Step Functions, Bedrock, Comprehend |
 | **Infrastructure as Code** | Terraform, AWS CloudFormation |
-| **Containers & Orchestration** | Docker, Docker Compose, Kubernetes (EKS), Container Registries (ECR, Docker Hub) |
-| **CI/CD & Automation** | GitHub Actions (OIDC Federation), Bash Scripting, Python Scripting |
-| **Security & Observability** | AWS Security Hub, GuardDuty, Inspector V2, AWS Config, WAF v2, CloudTrail, CloudWatch (Metric Alarms & ML Anomaly Detection), IAM (Least-Privilege, RLS) |
-| **Web & Networking** | NGINX, Apache2, REST APIs, WebRTC, DNS Management, Let's Encrypt SSL/TLS, VPC Peering & Endpoints |
-| **Languages & Frameworks** | Python, JavaScript/TypeScript, Node.js, PHP, Flask, Django, React, Next.js |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Containers & Orchestration** | Docker, Docker Compose, Kubernetes (EKS), Amazon ECS |
+| **CI/CD & Automation** | GitHub Actions (OIDC Federation, SSM Deployments), Bash, Python 3.12 |
+| **Security & Governance** | AWS Security Hub, GuardDuty, AWS Config, Inspector V2, AWS WAF v2, KMS, IAM, DevSecOps |
+| **Web & Networking** | NGINX, Apache2, Application Load Balancers (ALB), VPC (Multi-AZ, Flow Logs, Endpoints), Let's Encrypt |
+| **Databases & Caching** | PostgreSQL (Aurora Serverless, RLS), MySQL, Redis (ElastiCache), DynamoDB |
+| **Languages & Frameworks** | Python, JavaScript/TypeScript, Node.js, PHP, Django, React, Next.js |
 
 <br>
 
-## Featured Cloud & DevOps Projects
+## Featured Projects
 
-### Multi-Region AWS Production Infrastructure & Automated DR
-- Provisioned a fault-tolerant multi-region SaaS platform using modular **Terraform**.
-- **Compute & Ingress:** 3-AZ VPC topology in `us-east-1` with ECS Fargate auto-scaling (1–10 tasks), Application Load Balancers, and CloudFront CDN with Origin Access Control (OAC).
-- **Data & State Layer:** Aurora PostgreSQL 17.7 Global Database (Serverless v2) with block-level replication to `us-west-2` DR cluster (**RTO < 60s, RPO < 1s**), alongside Multi-AZ ElastiCache Redis.
-- **Security & Observability:** Hardened edge with AWS WAF v2 rate-limiting, regional CMK encryption in KMS, CloudWatch operational dashboards, and Machine Learning Anomaly Detection bands.
+**Multi-Region AWS Production Infrastructure & Automated DR**
+<br>Enterprise-grade, 3-AZ VPC infrastructure provisioned with modular Terraform across Virginia (`us-east-1`) and Oregon (`us-west-2`). Features ECS Fargate auto-scaling, Aurora PostgreSQL Serverless v2 Global Database replication (RTO < 60s, RPO < 1s), Multi-AZ ElastiCache Redis, CloudFront Origin Access Control (OAC), WAF v2 rate-limiting, and CloudWatch ML Anomaly Detection.
 
-### Automated Enterprise Patch Management Pipeline
-- Designed an automated EC2 patching engine using **Terraform**, **AWS PrivateLink**, and **AWS Systems Manager (SSM)**, removing all public internet access during maintenance cycles.
-- Integrated an event-driven compliance engine via **AWS Lambda** and **EventBridge** that automatically discovers instances via IAM tags and renders real-time patch status dashboards in CloudWatch.
+**Automated AWS Security Posture & Log Governance Engine**
+<br>EventBridge-triggered Python 3.12 Lambda framework that aggregates daily findings from Security Hub, GuardDuty, Inspector V2, Config, and WAF into structured Excel/HTML/JSON reports stored in S3, complete with SNS alerting for critical vulnerabilities.
 
-### Resilient Content Aggregator
-- Architected and deployed a multi-protocol data ingestion pipeline utilizing Playwright, Telethon, and translation APIs.
-- Containerized using **Docker Compose** and secured with NGINX reverse proxy, automated SSL/TLS renewals, and Cloudflare WAF protection.
-- Live: [burma-news.org](https://burma-news.org/)
+**Enterprise Automated Patch Management**
+<br>Zero-internet-exposure patching pipeline built with Terraform and AWS PrivateLink for enterprise EC2 fleets, monitored via real-time Lambda-driven CloudWatch compliance dashboards and EventBridge failure alerts.
 
-### HashDash Management System
-- Cross-platform desktop management and monitoring application built with **Electron.js**, **Vite**, and **WebRTC** for real-time employee communication and operational oversight.
+**Multi-Tenant AI-Enabled Financial SaaS Platform**
+<br>Serverless multi-tenant backend architecture featuring AWS Control Tower boundaries, PostgreSQL Row-Level Security, Step Functions data orchestration, and Amazon Comprehend automated PII redaction for secure Amazon Bedrock model inference.
+
+**Resilient Content Aggregator**
+<br>Containerized multi-source data ingestion pipeline built with Playwright, Telethon, and Docker Compose behind Cloudflare and NGINX SSL/TLS reverse proxy.
+<br>Live: [burma-news.org](https://burma-news.org/)
+
+**HashDash**
+<br>Cross-platform desktop workforce monitoring and HR platform built using Electron.js, Vite, and WebRTC.
 
 <br>
 
-## Certifications & Education
+## Certifications
 
-**Certifications:**
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** — Amazon Web Services (2026–2029)
-- **AWS Partner: Migration Foundations Knowledge** — Amazon Web Services (2026)
-- **Oracle Cloud Infrastructure Certified** — Oracle (2024)
-- **Containers, Docker, Kubernetes & OpenShift** — IBM
-- **Strategies for Cloud Security Risk Management** — Google Cloud
-- **Cybersecurity & Infrastructure Security** — U.S. Department of Homeland Security
-
-**Education & Leadership:**
-- **B.S. in Computer Science** — Bahauddin Zakariya University (2022 – 2026) &nbsp;·&nbsp; **CGPA: 3.80**
-- **DevOps Lead** — Microsoft Learn Student Ambassadors (MLSA-Multan, 2024 – 2025)
-- **Core Team Member** — Google Developer Student Clubs (GDSC-BZU, 2024 – 2025)
-- **Initiator & Organizer** — *Code&Clash* Tech Competition
+| Certification | Issuing Organization | Issued |
+|---|---|---|
+| AWS Certified Solutions Architect – Associate (SAA-C03) | Amazon Web Services | Aug 2026 |
+| AWS Partner: Migration Foundations Knowledge | Amazon Web Services | Jul 2026 |
+| Cybersecurity & Infrastructure Security | U.S. Department of Homeland Security | — |
+| Strategies for Cloud Security Risk Management | Google Cloud | — |
+| Containers, Docker, Kubernetes & OpenShift | IBM | — |
+| Oracle Cloud Infrastructure Certified Associate | Oracle | 2024 |
 
 <br>
 
@@ -133,7 +118,7 @@ DevOps and Cloud Infrastructure Engineer specializing in enterprise-grade AWS in
 
 <br><br>
 
-<sub>Live contribution history, streaks, and pinned repositories are available on my <a href="https://github.com/ahmedwsiim">GitHub profile</a>.</sub>
+<sub>Live contribution history, streaks, and repositories are available directly on my <a href="https://github.com/ahmedwsiim">GitHub profile</a>.</sub>
 
 </div>
 
