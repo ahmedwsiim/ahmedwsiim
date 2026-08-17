@@ -99,20 +99,18 @@ DevOps and Cloud Infrastructure Engineer specializing in secure, automated, mult
 
 <div align="center">
 
-[![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedwsiim&show_icons=true&theme=transparent&hide_border=true&title_color=8ab4f8&icon_color=8ab4f8&text_color=c9d1d9)](https://github.com/ahmedwsiim)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=transparent&hide_border=true&title_color=8ab4f8&text_color=c9d1d9)](https://github.com/ahmedwsiim)
-
-<br>
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=ahmedwsiim&show_icons=true&theme=transparent&hide_border=true&title_color=8ab4f8&icon_color=8ab4f8&text_color=c9d1d9" alt="Ahmad's GitHub Stats" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedwsiim&layout=compact&theme=transparent&hide_border=true&title_color=8ab4f8&text_color=c9d1d9" alt="Top Languages" /></td>
+</tr>
+</table>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ahmedwsiim&theme=transparent&hide_border=true&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=808080)](https://github.com/ahmedwsiim)
 
-<br>
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedwsiim&theme=github-compact&hide_border=true&bg_color=00000000&color=8ab4f8&line=8ab4f8&point=c9d1d9&custom_title=Ahmad%20Wasim's%20Contribution%20Graph)](https://github.com/ahmedwsiim)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedwsiim&theme=github-compact&hide_border=true&bg_color=00000000&color=8ab4f8&line=8ab4f8&point=c9d1d9)](https://github.com/ahmedwsiim)
-
-<br><br>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedwsiim&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)](https://github.com/ahmedwsiim)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedwsiim&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10)](https://github.com/ahmedwsiim)
 
 </div>
 
